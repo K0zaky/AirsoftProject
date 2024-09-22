@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PrimerProjectFinal" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/dark_tan</item>
+        <item name="colorPrimaryVariant">@color/darker_tan</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnPrimaryFixedVariant">@color/nice_grey</item>
+    </style>
+
+    <style name="Theme.PrimerProjectFinal" parent="Base.Theme.PrimerProjectFinal" />
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator" >
+        <item name="android:color">@color/tan</item>
+    </style>
+</resources>

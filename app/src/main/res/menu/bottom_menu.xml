@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bottom_marcas"
+        android:title="@string/marcas"
+        android:icon="@drawable/ic_marcas"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/bottom_guns"
+        android:title="@string/replicas"
+        android:icon="@drawable/ic_guns"
+        >
+
+    </item>
+
+
+    <item
+        android:id="@+id/bottom_profile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_profile"
+        >
+
+    </item>
+
+</menu>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-mergeDebugResources-31:\\layout\\activity_marcas.xml",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\activity_marcas.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-mergeDebugResources-31:\\layout\\fragment_marcas.xml",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\fragment_marcas.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-mergeDebugResources-31:\\layout\\fragment_guns.xml",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\fragment_guns.xml"
+    },
+    {
+        "merged": "com.dabellan.primerprojectfinal.app-mergeDebugResources-31:/layout/activity_login.xml",
+        "source": "com.dabellan.primerprojectfinal.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-mergeDebugResources-31:\\layout\\activity_replica_detalles.xml",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\activity_replica_detalles.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-mergeDebugResources-31:\\layout\\item_marcas.xml",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\item_marcas.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-mergeDebugResources-31:\\layout\\activity_ppantalla.xml",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\activity_ppantalla.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-mergeDebugResources-31:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-mergeDebugResources-31:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-mergeDebugResources-31:\\layout\\item_guns.xml",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\item_guns.xml"
+    }
+]

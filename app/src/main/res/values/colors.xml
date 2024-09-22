@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tan">#98916F</color>
+    <color name="dark_tan">#514E3B</color>
+    <color name="darker_tan">#352F00</color>
+    <color name="nice_blue">#1597FA</color>
+    <color name="nice_grey">#6D7F8E</color>
+    <color name="color_divider">#45BE49</color>
+</resources>

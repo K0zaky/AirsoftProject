@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PrimerProjectFinal</string>
+    <string name="welcome">Bienvenido de nuevo</string>
+    <string name="login_sesion">Inicia sesión</string>
+    <string name="remember_me">Recuérdame</string>
+    <string name="btn_login_text">Inicia Sesión</string>
+    <string name="hint_username">Nombre usuario</string>
+    <string name="helper_username">Nombre usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="helperpassword">Contraseña</string>
+    <string name="description_brand_photo">Logo de la marca</string>
+    <string name="sp_first_time">Usuario registrado</string>
+    <string name="dialog_title">Registrar usuario</string>
+    <string name="dialog_confirm">Usuario registrado</string>
+    <string name="sp_username">Usuario</string>
+    <string name="sp_user_registered">sp_user_registered</string>
+    <string name="sp_password_registered">sp_password_registered</string>
+    <string name="btn_login_register">Registrarse</string>
+    <string name="sp_user_login">sp_user_login</string>
+    <string name="sp_password_login">sp_password_login</string>
+    <string name="marcas">Marcas</string>
+    <string name="replicas">Réplicas</string>
+    <string name="profile">Perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favs">Favs</string>
+    <string name="title_marcas">Marcas</string>
+    <string name="title_replicas">Réplicas</string>
+    <string name="title_favs">Favoritos</string>
+    <string name="title_detalles">Detalles de réplica</string>
+    <string name="title_profile">Perfil</string>
+    <string name="generic_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+</resources>

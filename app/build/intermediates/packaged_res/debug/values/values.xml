@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="color_divider">#45BE49</color>
+    <color name="dark_tan">#514E3B</color>
+    <color name="darker_tan">#352F00</color>
+    <color name="ic_launcher_background">#666137</color>
+    <color name="nice_blue">#1597FA</color>
+    <color name="nice_grey">#6D7F8E</color>
+    <color name="tan">#98916F</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="big_text">35sp</dimen>
+    <dimen name="border_radius">20dp</dimen>
+    <dimen name="brand_img_size">90dp</dimen>
+    <dimen name="brands_name_size">260dp</dimen>
+    <dimen name="button_size">35dp</dimen>
+    <dimen name="button_width">40dp</dimen>
+    <dimen name="card_height">56dp</dimen>
+    <dimen name="card_img_cover_size">300dp</dimen>
+    <dimen name="common_margin_min">5dp</dimen>
+    <dimen name="common_padding_big">160dp</dimen>
+    <dimen name="common_padding_default">16dp</dimen>
+    <dimen name="common_padding_scrollable">80dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="login_margin">75dp</dimen>
+    <dimen name="login_width">275dp</dimen>
+    <dimen name="normal_text">18sp</dimen>
+    <dimen name="replica_card_size">220dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="title_height">80dp</dimen>
+    <dimen name="title_text">28sp</dimen>
+    <integer name="max_length_username">20</integer>
+    <string name="app_name">PrimerProjectFinal</string>
+    <string name="btn_login_register">Registrarse</string>
+    <string name="btn_login_text">Inicia Sesión</string>
+    <string name="description_brand_photo">Logo de la marca</string>
+    <string name="dialog_confirm">Usuario registrado</string>
+    <string name="dialog_title">Registrar usuario</string>
+    <string name="favs">Favs</string>
+    <string name="generic_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="helper_username">Nombre usuario</string>
+    <string name="helperpassword">Contraseña</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_username">Nombre usuario</string>
+    <string name="login_sesion">Inicia sesión</string>
+    <string name="marcas">Marcas</string>
+    <string name="profile">Perfil</string>
+    <string name="remember_me">Recuérdame</string>
+    <string name="replicas">Réplicas</string>
+    <string name="sp_first_time">Usuario registrado</string>
+    <string name="sp_password_login">sp_password_login</string>
+    <string name="sp_password_registered">sp_password_registered</string>
+    <string name="sp_user_login">sp_user_login</string>
+    <string name="sp_user_registered">sp_user_registered</string>
+    <string name="sp_username">Usuario</string>
+    <string name="title_detalles">Detalles de réplica</string>
+    <string name="title_favs">Favoritos</string>
+    <string name="title_marcas">Marcas</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_replicas">Réplicas</string>
+    <string name="welcome">Bienvenido de nuevo</string>
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/tan</item>
+    </style>
+    <style name="Base.Theme.PrimerProjectFinal" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/dark_tan</item>
+        <item name="colorPrimaryVariant">@color/darker_tan</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnPrimaryFixedVariant">@color/nice_grey</item>
+    </style>
+    <style name="Theme.PrimerProjectFinal" parent="Base.Theme.PrimerProjectFinal"/>
+</resources>

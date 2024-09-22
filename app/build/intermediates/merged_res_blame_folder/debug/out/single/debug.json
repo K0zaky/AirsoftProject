@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\layout_fragment_marcas.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\fragment_marcas.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\drawable_ic_favs.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\drawable\\ic_favs.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\layout_item_marcas.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\item_marcas.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\layout_activity_ppantalla.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\activity_ppantalla.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\layout_activity_marcas.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\activity_marcas.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\drawable_ic_marcas.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\drawable\\ic_marcas.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\drawable_ic_guns.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\drawable\\ic_guns.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.dabellan.primerprojectfinal.app-merged_res-32:/layout_activity_login.xml.flat",
+        "source": "com.dabellan.primerprojectfinal.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\layout_activity_replica_detalles.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\activity_replica_detalles.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\layout_item_guns.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\item_guns.xml"
+    },
+    {
+        "merged": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-merged_res-32:\\layout_fragment_guns.xml.flat",
+        "source": "C:\\Users\\puchd\\.gradle\\daemon\\8.0\\com.dabellan.primerprojectfinal.app-main-34:\\layout\\fragment_guns.xml"
+    }
+]

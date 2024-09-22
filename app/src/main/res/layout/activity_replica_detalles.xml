@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan"
+    tools:context=".ReplicaDetallesActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/title_height"
+            android:backgroundTint="@color/darker_tan"
+            app:cardCornerRadius="0dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/recyclerView2"
+            >
+
+            <ImageButton
+                android:id="@+id/btnPatras"
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_size"
+                android:layout_margin="@dimen/common_padding_default"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title_detalles"
+                android:textSize="@dimen/big_text"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                >
+
+            </TextView>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <com.google.android.material.card.MaterialCardView
+
+            android:id="@+id/cvViewDetalles"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/common_padding_default"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+
+            >
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constrainto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                >
+
+                <ImageView
+                    android:id="@+id/imgCardDetalles"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/replica_card_size"
+                    app:layout_constraintStart_toStartOf="@id/constrainto"
+                    app:layout_constraintTop_toTopOf="@id/constrainto"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:importantForAccessibility="no"
+                    android:background="@color/white"
+
+                    >
+
+                </ImageView>
+
+
+                <TextView
+                    android:id="@+id/replica_name_detalles"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nombre de réplica"
+                    android:textSize="@dimen/big_text"
+                    android:textStyle="bold"
+                    android:paddingLeft="@dimen/common_padding_default"
+                    app:layout_constraintBottom_toTopOf="@id/marca_replica_detalles"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:textColor="@color/black"
+
+                    />
+
+                <TextView
+                    android:id="@+id/marca_replica_detalles"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Marca de la réplica"
+                    android:textSize="18dp"
+                    android:paddingLeft="@dimen/common_padding_default"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:textColor="@color/black"
+
+                    />
+
+                <TextView
+                    android:id="@+id/precio_replica_detalles"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end|bottom"
+                    android:text="Precio"
+                    android:textSize="@dimen/normal_text"
+                    android:paddingRight="@dimen/common_padding_default"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    android:textColor="@color/black"
+
+                    />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cvViewSpecs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/cvViewDetalles"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:backgroundTint="@color/dark_tan"
+            android:layout_margin="@dimen/common_padding_default"
+            >
+
+            <LinearLayout
+                android:id="@+id/constrainto2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+
+
+                <TextView
+                    android:id="@+id/titulo_descripcion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Descripción"
+                    android:textSize="@dimen/big_text"
+                    android:textStyle="bold"
+                    android:paddingLeft="@dimen/common_padding_default"
+                    android:textColor="@color/black"
+
+                    />
+
+                <TextView
+                    android:id="@+id/descripcion_cuerpo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    android:layout_margin="@dimen/common_padding_default"
+                    />
+
+
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/cvViewSpecs"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:backgroundTint="@color/dark_tan"
+            android:layout_margin="@dimen/common_padding_default"
+            >
+
+            <LinearLayout
+                android:id="@+id/constrainto3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+
+
+                <TextView
+                    android:id="@+id/titulo_specs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Detalles"
+                    android:textSize="@dimen/big_text"
+                    android:textStyle="bold"
+                    android:paddingLeft="@dimen/common_padding_default"
+                    android:textColor="@color/black"
+
+                    />
+
+                <TextView
+                    android:id="@+id/specs_cuerpo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    android:layout_margin="@dimen/common_padding_default"
+                    />
+
+
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </LinearLayout>
+
+
+
+
+
+
+</ScrollView>
